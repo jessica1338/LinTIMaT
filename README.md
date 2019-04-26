@@ -15,7 +15,7 @@ The processed input files for ZF1 and ZF3 is here https://drive.google.com/file/
 You can see the tree visualization for individual fish ZF1, ZF3 and consensus tree for these two fish in the following website: https://jessica1338.github.io/LinTIMaT/  
 If you click any node on each tree you can see additional information such as proportion of different cell types or mutations associated with the node.  
 The source code for visualizing the json files for each tree is in docs folder of this repository.  
-We also provide the code (in visualization folder of this repository) to reproduce the json files for these trees from LinTIMaT output. 
+We also provide python2 scripts (in visualization folder of this repository) to reproduce the json files for these trees from LinTIMaT output. (requires the following python2 packages: pandas, newick, json) 
 
 See http://htmlpreview.github.io/?https://github.com/jessica1338/LinTIMaT/blob/master/visualization/reproducing_LinTIMaT_tree_json.html for the codes in the html output of jupyter notebook
 or you can change directory into LinTIMaT/visualization and execute "python reproducing_LinTIMaT_tree_json.py" then you will get the same json files in the LinTIMaT/docs/tree_data folder.
