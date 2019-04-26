@@ -18,10 +18,10 @@ The source code for visualizing the json files for each tree is in docs folder o
 We also provide python2 scripts (in visualization folder of this repository) to reproduce the json files for these trees from LinTIMaT output. (requires the following python2 packages: pandas, newick, json) 
 
 See [here](http://htmlpreview.github.io/?https://github.com/jessica1338/LinTIMaT/blob/master/visualization/reproducing_LinTIMaT_tree_json.html) for the codes in the html output of jupyter notebook
-or you can change directory into LinTIMaT/visualization and execute "python reproducing_LinTIMaT_tree_json.py" then you will get the same json files in the LinTIMaT/docs/tree_data folder.
+or you can change directory into LinTIMaT/visualization and execute "python reproducing_LinTIMaT_tree_json.py" then you will get the same json files as in the LinTIMaT/docs/tree_data folder.
 
-If you have the LinTIMaT output file for your own data, you can also visualize the tree with modified script. Followings are the required steps for visualizing:
-* you might need to modify LinTIMaT/data/ClusterColors.txt to change the color annotation of your cell labels
+If you have the LinTIMaT output files for your own data, you can also visualize the tree with modified script. Followings are the required steps for visualizing:
+* you might need to modify LinTIMaT/data/ClusterColors.txt to change the color annotations of your cell labels
 * you can change the data path and output file names in the visualization script for your own data
 * put the output json file into docs/tree_data folder.
 * modify the LinTIMaT/docs/master_list.json file to add new tree json files and specify tree height/width/barheight
