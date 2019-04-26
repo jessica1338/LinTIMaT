@@ -39,6 +39,9 @@ The input file for LinTIMaT has the following formatting requirements:
 	Example processed input file can be downloaded from here:  
     https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing
 
+## Hyper parameters of LinTIMaT
+### TODO: Hamim write the part for explaning hyper parameters for running tree search here
+
 ## OUTPUT of LinTIMaT
 ### TODO: Hamim write the part for specifying output format and how to generate output files (newick and matching files) for visualizing individual and consensus trees.
 
