@@ -9,7 +9,7 @@ In this github repository, we provide the example code to reconstruct similar ze
 
 The raw dataset is taken from GEO database [GSE105010](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105010)
 
-The processed input files for ZF1 and ZF3 is here https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing  
+The processed input files for ZF1 and ZF3 is [here](https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing)
 
 ## Tree visualization
 You can see the tree visualization for individual fish ZF1, ZF3 and consensus tree for these two fish in the following website: https://jessica1338.github.io/LinTIMaT/  
@@ -17,7 +17,7 @@ If you click any node on each tree you can see additional information such as pr
 The source code for visualizing the json files for each tree is in docs folder of this repository.  
 We also provide python2 scripts (in visualization folder of this repository) to reproduce the json files for these trees from LinTIMaT output. (requires the following python2 packages: pandas, newick, json) 
 
-See http://htmlpreview.github.io/?https://github.com/jessica1338/LinTIMaT/blob/master/visualization/reproducing_LinTIMaT_tree_json.html for the codes in the html output of jupyter notebook
+See [here](http://htmlpreview.github.io/?https://github.com/jessica1338/LinTIMaT/blob/master/visualization/reproducing_LinTIMaT_tree_json.html) for the codes in the html output of jupyter notebook
 or you can change directory into LinTIMaT/visualization and execute "python reproducing_LinTIMaT_tree_json.py" then you will get the same json files in the LinTIMaT/docs/tree_data folder.
 
 If you have the LinTIMaT output file for your own data, you can also visualize the tree with modified script. Followings are the required steps for visualizing:
@@ -30,7 +30,7 @@ If you have the LinTIMaT output file for your own data, you can also visualize t
 
 
 ## Example of running LinTIMaT on zebrafish data
-Download this repository, and download the the processed input file from https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing, unzip the file data.zip and move the file "ZF1_F3_DrImpute.txt" and "ZF3_F6_DrImpute.txt" to the data/ folder of this repository.
+Download this repository, and download the the processed input file from  [here](https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing), unzip the file data.zip and move the file "ZF1_F3_DrImpute.txt" and "ZF3_F6_DrImpute.txt" to the data/ folder of this repository.
 
 ### TODO: Hamim write the part for reproducing similar tree here
 
@@ -51,8 +51,7 @@ The input file for LinTIMaT has the following formatting requirements:
 	* __4th- columns__: Gene expression values.    
     
     Note that each entry of the data is separated by "\t" character.  
-	Example processed input file can be downloaded from here:  
-    https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing
+	Example processed input file can be downloaded from [here](https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing)
 
 ## Hyper parameters of LinTIMaT
 ### TODO: Hamim write the part for explaning hyper parameters for running tree search here
