@@ -38,7 +38,10 @@ Download this repository, and download the the processed input file from  [here]
 ## INPUT of LinTIMaT
 LinTIMaT runs on single cell RNA-Seq data where each cell has mutated barcodes. If the RNA-Seq data is raw reads, the instruction about how to calculate continuous expression based on RNA-Seq raw reads can be found in many other studies, e.g (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728800/). 
 
-Once we get the continuous RNA-Seq gene expression, the expression data should be transformed to log space for example by log2(x+1) where x could represent the gene expression in terms of RPKM, FPKM or TPM depending.   
+Also, make sure that the gene expression data is imputed to make LinTIMaT better handle expression data. LinTIMaT adopts [DrImpute](https://github.com/ikwak2/DrImpute) for imputation but you can also use different imputation methods.
+
+Once we get the imputed continuous RNA-Seq gene expression, the expression data should be transformed to log space for example by log2(x+1) where x could represent the gene expression in terms of RPKM, FPKM or TPM depending.   
+
 For the mutated barcode for each cell, it should be given as a single string with mutation events on different sites separated by "-" character. Mutation events can be NONE when no mutation is observed on this site, or conprise with deletion/insertion length and the position. For example, assumes that there are 4 possible sites for mutation, one possible mutation sring can be NONE-10D+113-NONE-5I+256+ATCGA. This means that for site 1 and site 3, there is no mutation, for site 2, there is a deletion of 10 basepairs happend at position 113, for site 4, there is a insertion of 5 base pairs (ATCGA) at position 256.
 
 The input file for LinTIMaT has the following formatting requirements:  
