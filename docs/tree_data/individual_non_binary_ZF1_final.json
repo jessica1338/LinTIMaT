@@ -35,8 +35,8 @@
                                     "num_cell_under_this_node": 5,
                                     "name": "b94",
                                     "parent": "n259_mc",
-                                    "nodecolor": "black",
-                                    "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                    "nodecolor": "blue",
+                                    "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                     "children": [
                                         {
                                             "rootDist": 6,
@@ -44,7 +44,7 @@
                                             "name": "f3_DEW118_bcDTOG",
                                             "parent": "b94",
                                             "nodecolor": "white",
-                                            "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                            "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                             "children": [],
                                             "organProportions": {
                                                 "Progenitor": 1.0
@@ -60,7 +60,7 @@
                                             "name": "f3_DEW117_bcFTRU",
                                             "parent": "b94",
                                             "nodecolor": "white",
-                                            "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                            "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                             "children": [],
                                             "organProportions": {
                                                 "Progenitor": 1.0
@@ -76,7 +76,7 @@
                                             "name": "f3_DEW114_bcDSFY",
                                             "parent": "b94",
                                             "nodecolor": "white",
-                                            "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                            "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                             "children": [],
                                             "organProportions": {
                                                 "Hindbrain": 1.0
@@ -92,7 +92,7 @@
                                             "name": "f3_DEW122_bcDIEO",
                                             "parent": "b94",
                                             "nodecolor": "white",
-                                            "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                            "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                             "children": [],
                                             "organProportions": {
                                                 "Progenitor": 1.0
@@ -108,7 +108,7 @@
                                             "name": "f3_DEW120_bcHJJD",
                                             "parent": "b94",
                                             "nodecolor": "white",
-                                            "commonEvent": "11D+127_12D+162_*_3D+222_*_*_*_*_*_*",
+                                            "commonEvent": "11D+127_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT_OUT",
                                             "children": [],
                                             "organProportions": {
                                                 "Hindbrain": 1.0
@@ -123,7 +123,7 @@
                                         "Hindbrain": 0.4,
                                         "Progenitor": 0.6
                                     },
-                                    "mutation": "NONE",
+                                    "mutation": "OUT",
                                     "event": "NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE"
                                 },
                                 {
