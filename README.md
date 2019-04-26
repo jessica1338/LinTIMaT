@@ -7,7 +7,7 @@ Recent studies combine two novel technologies, single-cell RNA-sequencing and CR
 
 In this github repository, we provide the example code to reconstruct similar zebrafish lineage tree listed in the paper.   We also provide the code for visualizing the trees in the paper.  
 
-The raw dataset is taken from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105010.  
+The raw dataset is taken from ![GSE105010](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105010.)
 
 The processed input files for ZF1 and ZF3 is here https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing  
 
