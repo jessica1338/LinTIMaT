@@ -5,7 +5,7 @@ Recent studies combine two novel technologies, single-cell RNA-sequencing and CR
 
 ![method_overview](images/method_overview.PNG)
 
-In this github repository, we provide the example code to reconstruct similar zebrafish lineage tree listed in the paper. We also provide the code for visualizing the tree in the paper.  
+In this github repository, we provide the example code to reconstruct similar zebrafish lineage tree listed in the paper.   We also provide the code for visualizing the trees in the paper.  
 
 The raw dataset is take from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105010.  
 
