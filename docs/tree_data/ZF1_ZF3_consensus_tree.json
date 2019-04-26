@@ -14,7 +14,6 @@
             "children": [
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 13.073586457206527,
                     "num_cell_under_this_node": 26,
                     "name": "c43",
                     "parent": "cons_subR",
@@ -428,7 +427,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 24.05012551532155,
                     "num_cell_under_this_node": 4,
                     "name": "c37",
                     "parent": "cons_subR",
@@ -531,7 +529,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 15.452989350715312,
                     "num_cell_under_this_node": 8,
                     "name": "c34",
                     "parent": "cons_subR",
@@ -707,7 +704,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.28177056922892,
                                     "num_cell_under_this_node": 41,
                                     "name": "c7",
                                     "parent": "cons_n24",
@@ -1335,7 +1331,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 11.56290229764277,
                                     "num_cell_under_this_node": 15,
                                     "name": "c24",
                                     "parent": "cons_n24",
@@ -1595,7 +1590,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.858086410319691,
                                     "num_cell_under_this_node": 31,
                                     "name": "c9",
                                     "parent": "cons_n24",
@@ -2093,7 +2087,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 11.544431299329023,
                             "num_cell_under_this_node": 15,
                             "name": "c2",
                             "parent": "cons_n4",
@@ -2356,7 +2349,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 9.568715488217133,
                             "num_cell_under_this_node": 36,
                             "name": "c12",
                             "parent": "cons_n4",
@@ -2921,7 +2913,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 17.350746752769417,
                                     "num_cell_under_this_node": 4,
                                     "name": "c29",
                                     "parent": "cons_n3",
@@ -3030,7 +3021,6 @@
                                     "children": [
                                         {
                                             "rootDist": 6,
-                                            "sum_cluster_expression_distance": 20.461256804566613,
                                             "num_cell_under_this_node": 2,
                                             "name": "c33",
                                             "parent": "cons_n6",
@@ -3109,7 +3099,6 @@
                                             "children": [
                                                 {
                                                     "rootDist": 7,
-                                                    "sum_cluster_expression_distance": 16.23044082667203,
                                                     "num_cell_under_this_node": 7,
                                                     "name": "c28",
                                                     "parent": "cons_n16",
@@ -3262,7 +3251,6 @@
                                                     "children": [
                                                         {
                                                             "rootDist": 8,
-                                                            "sum_cluster_expression_distance": 11.564977168001333,
                                                             "num_cell_under_this_node": 12,
                                                             "name": "c26",
                                                             "parent": "cons_n28",
@@ -3477,7 +3465,6 @@
                                                         },
                                                         {
                                                             "rootDist": 8,
-                                                            "sum_cluster_expression_distance": 29.738050868891165,
                                                             "num_cell_under_this_node": 5,
                                                             "name": "c31",
                                                             "parent": "cons_n28",
@@ -3655,7 +3642,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 22.99922598157222,
                                     "num_cell_under_this_node": 4,
                                     "name": "c35",
                                     "parent": "cons_n18",
@@ -3756,7 +3742,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 10.417633008481161,
                                     "num_cell_under_this_node": 20,
                                     "name": "c10",
                                     "parent": "cons_n18",
@@ -4089,7 +4074,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 12.286617260814284,
                                     "num_cell_under_this_node": 17,
                                     "name": "c6",
                                     "parent": "cons_n18",
@@ -4374,7 +4358,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.903409489068816,
                                     "num_cell_under_this_node": 30,
                                     "name": "c8",
                                     "parent": "cons_n18",
@@ -4847,7 +4830,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 10.831708647440186,
                                     "num_cell_under_this_node": 31,
                                     "name": "c13",
                                     "parent": "cons_n18",
@@ -5342,7 +5324,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 14.628751856058791,
                             "num_cell_under_this_node": 15,
                             "name": "c15",
                             "parent": "cons_n27",
@@ -5603,7 +5584,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 18.56650196328594,
                             "num_cell_under_this_node": 2,
                             "name": "c30",
                             "parent": "cons_n27",
@@ -5685,7 +5665,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 15.004091006484941,
                     "num_cell_under_this_node": 9,
                     "name": "c14",
                     "parent": "cons_subR",
@@ -5860,7 +5839,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 30.89106606469381,
                     "num_cell_under_this_node": 2,
                     "name": "c38",
                     "parent": "cons_subR",
@@ -5932,7 +5910,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 30.97235741100611,
                     "num_cell_under_this_node": 2,
                     "name": "c32",
                     "parent": "cons_subR",
@@ -6011,7 +5988,6 @@
                     "children": [
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 10.171940527918249,
                             "num_cell_under_this_node": 31,
                             "name": "c19",
                             "parent": "cons_n2",
@@ -6499,7 +6475,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 12.314589243022356,
                             "num_cell_under_this_node": 10,
                             "name": "c18",
                             "parent": "cons_n2",
@@ -6702,7 +6677,6 @@
                                     "children": [
                                         {
                                             "rootDist": 6,
-                                            "sum_cluster_expression_distance": 13.260819038858525,
                                             "num_cell_under_this_node": 19,
                                             "name": "c21",
                                             "parent": "cons_n41",
@@ -7019,7 +6993,6 @@
                                         },
                                         {
                                             "rootDist": 6,
-                                            "sum_cluster_expression_distance": 10.808966131146502,
                                             "num_cell_under_this_node": 20,
                                             "name": "c20",
                                             "parent": "cons_n41",
@@ -7363,7 +7336,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 35.86296973015288,
                                     "num_cell_under_this_node": 2,
                                     "name": "c42",
                                     "parent": "cons_n35",
@@ -7435,7 +7407,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.368944869355877,
                                     "num_cell_under_this_node": 70,
                                     "name": "c5",
                                     "parent": "cons_n35",
@@ -8489,7 +8460,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 9.766431486078261,
                     "num_cell_under_this_node": 27,
                     "name": "c1",
                     "parent": "cons_subR",
@@ -8929,7 +8899,6 @@
                     "children": [
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 37.02925715039106,
                             "num_cell_under_this_node": 2,
                             "name": "c39",
                             "parent": "cons_n46",
@@ -9008,7 +8977,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 11.728898914143528,
                                     "num_cell_under_this_node": 21,
                                     "name": "c17",
                                     "parent": "cons_n36",
@@ -9355,7 +9323,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 30.96532432066829,
                                     "num_cell_under_this_node": 2,
                                     "name": "c40",
                                     "parent": "cons_n36",
@@ -9447,7 +9414,6 @@
                 },
                 {
                     "rootDist": 3,
-                    "sum_cluster_expression_distance": 15.152520808335463,
                     "num_cell_under_this_node": 16,
                     "name": "c27",
                     "parent": "cons_subR",
@@ -9737,7 +9703,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 31.66952058771233,
                                     "num_cell_under_this_node": 2,
                                     "name": "c41",
                                     "parent": "cons_n60",
@@ -9809,7 +9774,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.779677669396888,
                                     "num_cell_under_this_node": 24,
                                     "name": "c16",
                                     "parent": "cons_n60",
@@ -10195,7 +10159,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 10.042294040718229,
                                     "num_cell_under_this_node": 28,
                                     "name": "c3",
                                     "parent": "cons_n60",
@@ -10640,7 +10603,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 14.314665492848693,
                                     "num_cell_under_this_node": 12,
                                     "name": "c25",
                                     "parent": "cons_n60",
@@ -10877,7 +10839,6 @@
                             "children": [
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 13.170878948517759,
                                     "num_cell_under_this_node": 22,
                                     "name": "c23",
                                     "parent": "cons_n29",
@@ -11239,7 +11200,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 9.72997926614882,
                                     "num_cell_under_this_node": 20,
                                     "name": "c11",
                                     "parent": "cons_n29",
@@ -11571,7 +11531,6 @@
                                 },
                                 {
                                     "rootDist": 5,
-                                    "sum_cluster_expression_distance": 25.50754146324956,
                                     "num_cell_under_this_node": 15,
                                     "name": "c36",
                                     "parent": "cons_n29",
@@ -11841,7 +11800,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 10.798758980573936,
                             "num_cell_under_this_node": 37,
                             "name": "c22",
                             "parent": "cons_n30",
@@ -12416,7 +12374,6 @@
                         },
                         {
                             "rootDist": 4,
-                            "sum_cluster_expression_distance": 9.33433673385697,
                             "num_cell_under_this_node": 38,
                             "name": "c4",
                             "parent": "cons_n30",
