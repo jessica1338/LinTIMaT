@@ -468,8 +468,8 @@
                                             "num_cell_under_this_node": 9,
                                             "name": "n3_b38",
                                             "parent": "n54",
-                                            "nodecolor": "black",
-                                            "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                            "nodecolor": "blue",
+                                            "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                             "children": [
                                                 {
                                                     "rootDist": 7,
@@ -477,7 +477,7 @@
                                                     "name": "f6_DEW144_bcCSVX",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -493,7 +493,7 @@
                                                     "name": "f6_DEW142_bcHSNZ",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -509,7 +509,7 @@
                                                     "name": "f6_DEW145_bcCPFK",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -525,7 +525,7 @@
                                                     "name": "f6_DEW145_bcAASB",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -541,7 +541,7 @@
                                                     "name": "f6_DEW148_bcDNIF",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -557,7 +557,7 @@
                                                     "name": "f6_DEW142_bcHCBO",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -573,7 +573,7 @@
                                                     "name": "f6_DEW145_bcCYXJ",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -589,7 +589,7 @@
                                                     "name": "f6_DEW145_bcAARZ",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Progenitor": 1.0
@@ -605,7 +605,7 @@
                                                     "name": "f6_DEW143_bcBAHG",
                                                     "parent": "n3_b38",
                                                     "nodecolor": "white",
-                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_*_*_*_*_*",
+                                                    "commonEvent": "5D+140_8D+159_12D+192_2D+220_*_9D+266_17D+289_*_13D+345_*",
                                                     "children": [],
                                                     "organProportions": {
                                                         "Midbrain": 1.0
@@ -620,7 +620,7 @@
                                                 "Midbrain": 0.8888888888888888,
                                                 "Progenitor": 0.1111111111111111
                                             },
-                                            "mutation": "NONE",
+                                            "mutation": "9D+266_17D+289_13D+345",
                                             "event": "NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE_NONE"
                                         }
                                     ],
