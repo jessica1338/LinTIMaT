@@ -11,7 +11,7 @@ The raw dataset is taken from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc
 
 The processed input files for ZF1 and ZF3 is here https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing  
 
-## Tree visualization website
+## Tree visualization
 You can see the tree visualization for individual fish ZF1, ZF3 and consensus tree for these two fish in the following website: https://jessica1338.github.io/LinTIMaT/  
 If you click any node on each tree you can see additional information such as proportion of different cell types or mutations associated with the node.  
 The source code for visualizing the json files for each tree is in docs folder of this repository.  
@@ -19,6 +19,15 @@ We also provide python2 scripts (in visualization folder of this repository) to 
 
 See http://htmlpreview.github.io/?https://github.com/jessica1338/LinTIMaT/blob/master/visualization/reproducing_LinTIMaT_tree_json.html for the codes in the html output of jupyter notebook
 or you can change directory into LinTIMaT/visualization and execute "python reproducing_LinTIMaT_tree_json.py" then you will get the same json files in the LinTIMaT/docs/tree_data folder.
+
+If you have the LinTIMaT output file for your own data, you can also visualize the tree with modified script. Followings are the required steps for visualizing:
+* you might need to modify LinTIMaT/data/ClusterColors.txt to change the color annotation of your cell labels
+* you can change the data path and output file names in the visualization script for your own data
+* put the output json file into docs/tree_data folder.
+* modify the LinTIMaT/docs/master_list.json file to add new tree json files and specify tree height/width/barheight
+* you might need to modify LinTIMaT/docs/d3.phylogram.js for visualizing the mutated barcodes
+* use Firefox browser to open LinTIMaT/docs/index.html to see your tree locally
+
 
 ## Example of running LinTIMaT on zebrafish data
 Download this repository, and download the the processed input file from https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing, unzip the file data.zip and move the file "ZF1_F3_DrImpute.txt" and "ZF3_F6_DrImpute.txt" to the data/ folder of this repository.
