@@ -9,6 +9,11 @@ Recent studies combine two novel technologies, single-cell RNA-sequencing and CR
 In this github repository, we provide the example code to reconstruct similar zebrafish lineage tree listed in the paper. The raw dataset is take from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105010.
 The processed input files for ZF1 and ZF3 is https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing
 
+## tree visualization website
+You can see the tree visualization for individual fish ZF1, ZF3 and consensus tree for these two fish in the following website: https://jessica1338.github.io/LinTIMaT/  
+If you click any node on each tree you can see additional information such as proportion of different cell types or mutations associated with the node.  
+The source code for visualizing the json files for each tree is in docs folder of this repository.  
+We also provide the code to reproduce the json files for these trees. Please see the visualization folder.
 
 ## Before you begin
 download this repository, and download the the processed input file from https://drive.google.com/file/d/1DI4N7eG7Rn4hopVYGV6iILHilvz8LbQA/view?usp=sharing, unzip the file data.zip and move the file "ZF1_F3_DrImpute.txt" and "ZF3_F6_DrImpute.txt" to the data/ folder of this repository.
