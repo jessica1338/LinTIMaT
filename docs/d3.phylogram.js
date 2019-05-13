@@ -106,8 +106,10 @@ function build_tree(selector, root, options) {  // , taxaToObj, maxCount) {
     var edit_stroke_width = '.25px'
 
     // the offsets in the aligned reads to consider for event plotting -- would be better to pass in at some point
-    var startRegion = 100
-    var endRegion = 450
+    //var startRegion = 100
+    //var endRegion = 450
+	var startRegion = options.startRegion
+	var endRegion = options.endRegion
 
     // when we want to plot the proportion in blood, find the max proportion
     // blood proportion is turned off right now
@@ -791,7 +793,7 @@ function load() {
 
         // ------------------------------------------------------------------------------------------------------
         // the main function call to build the phylogeny
-        build_tree(selector, newick[0], {width: current_data.width, height: current_data.height, barheight: current_data.barheight});
+        build_tree(selector, newick[0], {width: current_data.width, height: current_data.height, barheight: current_data.barheight, startRegion: current_data.startRegion, endRegion: current_data.endRegion});
 		
 		var svg = d3.select('svg')[0][0];
 		var serializer = new XMLSerializer();
