@@ -47,8 +47,8 @@ def load_individual_tree_visualization_file(non_binary_tree_file):
         if lines[i].startswith("Cluster Nodes"):
             ln=i
             break
-        line = lines[i].split("\n")[0]
-    #     print line
+        line = lines[i].replace("\n","").replace("\r","")
+        print line
         splits=line.split(" ")
         mutation_node_name = splits[0]
         mutation_node+=[mutation_node_name]
@@ -59,7 +59,7 @@ def load_individual_tree_visualization_file(non_binary_tree_file):
                 sp=sp[:-1]
             mutation_node_event_dict[mutation_node_name]+=[sp]
     for i in range(ln+1,len(lines)):
-        cluster_node+=[lines[i].split("\n")[0]]
+        cluster_node+=[lines[i].replace("\n","").replace("\r","")]
     return tree_root, mutation_node,cluster_node,mutation_node_event_dict
 
 def write_individual_tree_non_binary(node,mutation_node,cluster_node,mutation_node_event_dict,cell_label_dictionary,label_color_dictionary,label_type_dictionary,cell_HMID_dictionary,small_event_location_map, level=0, parent=None,mutation_set=set(),group=[]):
