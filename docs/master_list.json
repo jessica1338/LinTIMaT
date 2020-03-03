@@ -1,9 +1,7 @@
 [
-{"name" :"scarTrace_invariant.json.json", "tree_file" :"./tree_data/R2_R3_celltype_filtered_750cells_w_unknown_thr_0p002_s_390123_out_li_cell_typeNR.json.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 100, "endRegion":450},
-{"name" :"ZF1_ZF3_consensus_tree.json", "tree_file" :"./tree_data/ZF1_ZF3_consensus_tree.json","height":8000, "barheight": 5, "width": 800, "startRegion" : 100, "endRegion":450},
+{"name" :"scGESTALT_invariant_allcell.json", "tree_file" :"./tree_data/scGESTALT_invariant_allcell.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 100, "endRegion":450},
 {"name" :"individual_non_binary_ZF3_final.json", "tree_file" :"./tree_data/individual_non_binary_ZF3_final.json","height":4000, "barheight": 5, "width": 800, "startRegion" : 100, "endRegion":450},
 {"name" :"individual_non_binary_ZF1_final.json", "tree_file" :"./tree_data/individual_non_binary_ZF1_final.json","height":8000, "barheight": 5, "width": 800, "startRegion" : 100, "endRegion":450},
-{"name" :"R2_R3_consensus_tree.json", "tree_file" :"./tree_data/R2_R3_consensus_tree.json","height":20000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600},
 {"name" :"scarTrace_invariant.json", "tree_file" :"./tree_data/scarTrace_invariant.json","height":20000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600},
 {"name" :"individual_non_binary_R2_final.json", "tree_file" :"./tree_data/individual_non_binary_R2_final.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600},
 {"name" :"individual_non_binary_R3_final.json", "tree_file" :"./tree_data/individual_non_binary_R3_final.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600}]
